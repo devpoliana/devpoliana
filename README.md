@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 # Oi, eu sou a Poliana Oliveira
 
 💻 Desenvolvedora Full Stack apaixonada por transformar ideias criativas em soluções reais.  
@@ -35,5 +34,3 @@
 
 ---
 ✨ _"Muitas Anas em uma só, prazer, Poliana."_ ✨
-
--->
